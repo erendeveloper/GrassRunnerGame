@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c9d504cfce972f648bf14224f4d52975, type: 3}
+  m_Name: Game Configuration
+  m_EditorClassIdentifier: 
+  maxLevel: 3
+  life: 3
+  playTime: 15
+  smallDiamond: 1
+  largediamond: 2
+  itemPositionsX:
+  - -1.5
+  - 0
+  - 1.5
+  maxItemsHorizontal: 3
+  generationProbabilityLevel1: 320000000000000032000000
+  generationProbabilityLevel2: 220000002100000021000000
+  generationProbabilityLevel3: 190000001900000032000000
+  characterForwardSpeed: 5
+  characterHorizontalSpeed: 20
+  cameraFirstPosition: {x: 0, y: 2, z: -10}
+  cameraSecondPosition: {x: 3.5, y: 2, z: -8}
+  cameraFirstRotation: {x: -0.08715574, y: 0, z: 0, w: 0.9961947}
+  cameraSecondRotation: {x: -0.085554816, y: -0.19008292, z: -0.016630173, w: 0.97789174}
